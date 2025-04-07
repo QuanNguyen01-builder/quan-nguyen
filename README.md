@@ -7,5 +7,5 @@ I'm a Marketing Intelligence grad student @ USF, passionate about data-driven st
 - [📦 BoodleBox AI Research](https://github.com/yourusername/boodlebox-practicum)
 
 ## 📫 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/yourname)
+- [LinkedIn](https://www.linkedin.com/in/quannguyen0161/)
 - [Portfolio](https://theqfi.com)
