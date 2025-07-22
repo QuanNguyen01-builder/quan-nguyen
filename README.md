@@ -27,8 +27,8 @@ I'm a data-driven marketing analyst with a passion for data visualization and AI
 ### [Airbnb Project](https://github.com/QuanNguyen01-builder/airbnb_project)
 Analyzed Airbnb listing performance, amenities, and revenue impact using Inside Airbnb data in R.
 
-### [Quan Nguyen Portfolio](https://github.com/QuanNguyen01-builder/quan-nguyen)
-A collection of my projects and analyses showcasing my skills in marketing analytics and data visualization.
+### [E-Commerce Marketing Analysis](https://github.com/QuanNguyen01-builder/E-commerce-Website-Analysis)
+Customer analytics and predictive modeling for e-commerce using Kaggle datasets: segmentation, CLV prediction, and market basket analysis in R.
 
 ---
 
